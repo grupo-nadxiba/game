@@ -1,2 +1,2 @@
 # game
-Juego de prueba.
+Repositorio con un juego básico y divertido así nomás.
